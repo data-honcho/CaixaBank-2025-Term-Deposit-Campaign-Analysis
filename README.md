@@ -22,13 +22,17 @@ Using data analytics, the project aims to transform campaign data into actionabl
 
 ## Project Structure
 
-- `data/` — Dataset storage; raw data may be excluded from Git.
+- `data/` — Dataset storage; raw data may be included on Git.
 - `notebooks/` — Jupyter notebooks for exploratory data analysis.
 - `src/` — Python scripts for data preparation and feature engineering.
 - `sql/` — SQL scripts for data validation and campaign analysis.
+- `tableau/` — Tableau visualization and documentation.
 - `powerbi/` — Power BI reports and documentation.
 - `reports/` — Technical reports and business findings.
 - `images/` — Dashboard screenshots and project visuals.
+- `stakeholders presentation slide deck/` — Strategic roadmap and stakeholder action plan raw powerpoint slide.
+- `slide deck images/`screenshots and visuals for stakeholders presentation slide deck.
+- `docs/`raw documentation of business problem and project findings.
 
 ## Analytical Approach
 
