@@ -1,4 +1,4 @@
-# CaixaBank Term Deposit Marketing Campaign Analysis
+# CaixaBank 2025 Term Deposit Marketing Campaign Analysis
 
 ## Project Overview
 
@@ -49,4 +49,4 @@ Completed.
 
 ## Author
 
-David Azorji
+David Azorji (data-honcho)
