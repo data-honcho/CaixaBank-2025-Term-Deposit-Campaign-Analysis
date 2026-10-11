@@ -18,7 +18,10 @@ Using data analytics, the project aims to transform campaign data into actionabl
 
 - **SQL Server / T-SQL:** Data validation, querying, and business analysis.
 - **Python:** Data cleaning, exploratory data analysis, and feature engineering.
-- **Power BI:** Interactive dashboards and business intelligence reporting.
+- **Tableau:** Interactive dashboards and business intelligence reporting.
+- **MS Word:** Document indepth technical report and findings.
+- **MS PowerPoint:** Presentation Slides for stakeholders engagement.
+
 
 ## Project Structure
 
