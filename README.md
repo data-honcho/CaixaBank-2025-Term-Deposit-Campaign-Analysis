@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes bank telemarketing campaigns to understand customer subscription patterns and identify opportunities to improve term deposit marketing effectiveness.
+This project analyzes CaixaBank 2025 Term Deposit Telemarketing campaign to understand customer subscription patterns and identify opportunities to improve term deposit marketing effectiveness.
 
 Using data analytics, the project aims to transform campaign data into actionable business insights that support customer segmentation, campaign planning, and data-driven decision-making.
 
