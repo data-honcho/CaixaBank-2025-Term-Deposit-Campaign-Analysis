@@ -1,0 +1,35 @@
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Raw datasets - exclude for now
+data/
+
+# Database backups
+*.bak
+*.mdf
+*.ldf
+
+# Temporary Tableau backups
+~*.twb
+~*.twbr
+*.twbr
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Files and folders intentionally excluded from GitHub
+/New folder/
+/bank_marketing_analytics_dashboard.twbx
+/main_marketing_campaign_stakeholder_presentation.pptx
+/PPT POINTS.docx
