@@ -46,7 +46,7 @@ Using data analytics, the project aims to transform campaign data into actionabl
 
 ## 📸 Dashboard Preview
 
-![Executive Overview](1 executive overview.PNG)
+![Executive Overview](1%20executive%20overview.PNG)
 
 
 ## Analytical Approach
