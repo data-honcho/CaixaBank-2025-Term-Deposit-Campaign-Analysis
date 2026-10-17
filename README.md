@@ -55,7 +55,7 @@ Using data analytics, the project aims to transform campaign data into actionabl
 2. Data cleaning and preparation.
 3. Exploratory data analysis.
 4. SQL-based customer and campaign analysis.
-5. Power BI dashboard development.
+5. Tableau/Power BI dashboard development.
 6. Interpretation of findings and business recommendations.
 
 ## Expected Business Value
