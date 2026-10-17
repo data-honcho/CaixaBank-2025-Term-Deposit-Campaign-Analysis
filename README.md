@@ -37,6 +37,18 @@ Using data analytics, the project aims to transform campaign data into actionabl
 - `slide deck images/`screenshots and visuals for stakeholders presentation slide deck.
 - `docs/`raw documentation of business problem and project findings.
 
+
+## 🚀 Getting Started
+
+1. Clone the repository.
+2. Open the `.twbx` or `.pbix` file in Tableau Desktop or Power BI Desktop.
+3. Load your data or review insights based on the existing dataset.
+
+## 📸 Dashboard Preview
+
+![Executive Overview](1 executive overview.PNG)
+
+
 ## Analytical Approach
 
 1. Data understanding and validation.
