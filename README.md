@@ -33,8 +33,8 @@ Using data analytics, the project aims to transform campaign data into actionabl
 - `powerbi/` — Power BI reports and documentation.
 - `reports/` — Technical reports and business findings.
 - `images/` — Dashboard screenshots and project visuals.
-- `stakeholders presentation slide deck/` — Strategic roadmap and stakeholder action plan raw powerpoint slide.
-- `slide deck images/`screenshots and visuals for stakeholders presentation slide deck.
+- `business recommendations presentation/` — Action plan for stakeholders.
+- `business recommendations images/`presentation screenshots and visuals.
 - `docs/`raw documentation of business problem and project findings.
 
 
