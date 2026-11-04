@@ -25,17 +25,14 @@ Using data analytics, the project aims to transform campaign data into actionabl
 
 ## Project Structure
 
-- `data/` — Dataset storage; raw data may be included on Git.
+- `data/` — Dataset storage and data documentation.
 - `notebooks/` — Jupyter notebooks for exploratory data analysis.
-- `src/` — Python scripts for data preparation and feature engineering.
 - `sql/` — SQL scripts for data validation and campaign analysis.
-- `tableau/` — Tableau visualization and documentation.
-- `powerbi/` — Power BI reports and documentation.
-- `reports/` — Technical reports and business findings.
+- `tableau/` — Tableau visualization and dashboard evelopment.
+- `powerbi/` — Power BI visualization and dashboard evelopment.
+- `reports/` — Technical reports and business findings in MS Word and PDF formats.
 - `images/` — Dashboard screenshots and project visuals.
-- `business recommendations presentation/` — Action plan for stakeholders.
-- `business recommendations images/`presentation screenshots and visuals.
-- `docs/`raw documentation of business problem and project findings.
+- `presentation/` — Final strategic recommendations for executives and business stakeholders in PowerPoint and PDF formats.
 
 
 ## 🚀 Getting Started
@@ -69,3 +66,7 @@ Completed.
 ## Author
 
 David Azorji (data-honcho)
+
+davoazorji1@gmail.com
+
++2347065093865
